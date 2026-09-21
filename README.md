@@ -31,24 +31,4 @@
     <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div><br/>
 
-## 📊 Estatísticas do GitHub:
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gbiel-Alvss&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0D1117" alt="Gabriel Alves github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbiel-Alvss&layout=compact&hide_border=true&title_color=58A6FF&text_color=58A6FF&bg_color=0D1117" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <br/>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gbiel-Alvss&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true" alt="Activity Graph" />
-  </a>
-</div>
-
-<div align="center">
-  <br><p align="center"><b>Visualizações do Perfil</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Gbiel-Alvss}/count.svg" /></p> 
-  <br>
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer"/>
